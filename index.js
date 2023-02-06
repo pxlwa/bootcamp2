@@ -17,7 +17,7 @@ function submitForm() {
     return alert('Message input fields must be not empty');
   }
 
-  const emailReciver = 'rhomairama.dev@gmail.com';
+  const emailReciver = 'akbarpalwaramadhanihz@gmail.com';
 
   const a = document.createElement('a');
 

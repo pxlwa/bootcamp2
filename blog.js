@@ -31,7 +31,7 @@ function addBlog(event) {
   document.getElementById('input-blog-title').value = '';
 
   let blog = {
-    author: 'Rhoma Irama',
+    author: 'Palweeeeewwwww',
     title: title,
     image: image,
     content: content,
